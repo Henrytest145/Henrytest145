@@ -1,4 +1,4 @@
-# Hola, soy **Enrique** 👋
+# Hola, me llamo **Enrique** 👋
 
 ## Sobre mí
 Soy estudiante de **Ingeniería en Sistemas**, especializado en el **desarrollo web**. Apasionado por crear soluciones efectivas y elegantes, utilizando tecnologías modernas y buenas prácticas de programación.

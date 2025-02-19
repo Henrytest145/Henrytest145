@@ -7,7 +7,7 @@ Soy estudiante de **Ingeniería en Sistemas**, especializado en el **desarrollo 
 - **Frontend:**
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
   - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
-  - ![React]((https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff))
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
   - ![EJS](https://img.shields.io/badge/-EJS-8E44AD?logo=javascript&logoColor=fff)
 - **Backend:**
   - ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
